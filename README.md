@@ -27,7 +27,7 @@ This is a customized version of the Shopping List App originally developed durin
 To get started with the project, clone the repository and open it in Android Studio. You’ll need to have the latest version of Android Studio and the Android SDK installed.
 
 ```bash
-git clone <repository-url>
+gh repo clone beingtechsavy/Shopping-List-App
 ```
 
 ## Usage
